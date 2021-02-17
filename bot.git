@@ -1,0 +1,7 @@
+echo "# TelegramBot" >> README.md
+git init
+git add .
+git add *
+git commit -m "Initial Commit" -a
+git remote add origin origin https://github.com/Tiga4ka/TelegramBot #Указываем свою ссылку
+git push -u origin master
